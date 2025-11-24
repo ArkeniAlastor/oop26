@@ -50,6 +50,7 @@ int main()
 		return 1;
     }
 
+	figure->ShowLenght();
     figure->ShowArea();
 
     return 0;

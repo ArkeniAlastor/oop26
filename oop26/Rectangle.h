@@ -6,6 +6,6 @@ class Rectangle :
     public Figure
 {
 public:
-
+	void ShowLenght() const;
     void ShowArea() const;
 };
