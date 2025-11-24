@@ -1,8 +1,11 @@
 #pragma once
 #include "Figure.h"
 
-class square
+class Square
+	: public Figure
 {
+public:
 
+	void ShowArea() const;
 };
 
