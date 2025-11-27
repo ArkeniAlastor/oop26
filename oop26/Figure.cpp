@@ -15,7 +15,7 @@ void Figure::SetDimension(const double value1, const double value2)
     m_value2 = value2;
 }
 
-void Figure::ShowLenght() const
+/*void Figure::ShowLenght() const
 {
     cout << "Value is undefined" << endl;
 }
@@ -24,3 +24,4 @@ void Figure::ShowArea() const
 {
     cout << "Value is undefined" << endl;
 }
+*/
